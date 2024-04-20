@@ -8,7 +8,7 @@
 $ Bachelor of Computer Science @ Uni Adelaide 
 $ Majoring in Cybersecurity
 $ Proud Australian citizen, since 2018
-$ Interested in cryptography, secure programming, and emerging threats
+$ Interested in cryptography, secure programming, and pentesting
 
                               \\\\\\\                 
                             \\\\\\\\\\\\               
