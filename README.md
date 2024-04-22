@@ -5,9 +5,9 @@
 ██  ██  ██ ██      ██  ██ ██ ██  ██ ██ ██    ██     ██   ██ ██   ██ ██   ██ ██  ██ ██ ██   ██    ██    
 ██      ██ ███████ ██   ████ ██   ████  ██████      ██████  ██   ██ ██   ██ ██   ████ ██████     ██
 
-$ Bachelor of Computer Science @ Uni Adelaide (3rd Yr)
+$ Bachelor of Computer Science @ Uni Adelaide 
 $ Majoring in Cybersecurity
-$ Proud Australian citizen, since 2018
+$ Proud Aussie citizen, since 2018
 $ Interested in cryptography, secure programming,
   and switching distros every week 
 
